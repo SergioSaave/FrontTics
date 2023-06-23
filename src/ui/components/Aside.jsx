@@ -14,7 +14,7 @@ export const Aside = () => {
   };
 
   return (
-    <div>
+    <div className="animate__animated animate__fadeInDown">
       <h1 className="font-bold text-center text-2xl">Mi Sensor</h1>
       <div>
         <nav>
